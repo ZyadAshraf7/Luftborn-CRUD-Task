@@ -1,0 +1,54 @@
+<div class="py-3 px-5" style="width: 500px">
+    <div class="text-center">
+        <ng-container *ngIf="data.employee?.id else addUser">
+            <h4 style="color: #36454F;">Update User Information</h4>
+        </ng-container>
+        <ng-template #addUser>
+            <h4 style="color: #36454F;">Add User Information</h4>
+        </ng-template>
+    </div>
+    <form [formGroup]="employeeForm">
+        <div class="mt-3">
+
+            <div class="text-center">
+                <ng-container *ngIf="data.employee?.image">
+                    <img src="data:image/png;base64,{{data.employee.image}}" class="circle-img" alt="">
+                </ng-container>
+            </div>
+          <label >Email</label>
+          <label style="color: red;">*</label>
+          <input type="text" class="form-control mb-3" formControlName = "email"
+            [ngClass]="{'is-invalid':email?.errors?.['required'] && email?.touched}">
+    
+          <label >User Name</label>
+          <label style="color: red;">*</label>
+          <input type="text" class="form-control mb-3"formControlName = "name"
+          [ngClass]="{'is-invalid':name?.errors?.['required'] && name?.touched}">
+    
+          <label >Role</label>
+          <label style="color: red;">*</label>
+          <select class="form-select mb-3" formControlName ="role"
+            [ngClass]="{'is-invalid':role?.errors?.['required'] && role?.touched}"
+          >
+            <option value="" disabled selected>Select User Role...</option>
+            <option [value]="role" *ngFor="let role of roles">{{role}}</option>
+          </select>
+          
+          <label >Password</label>
+          <label style="color: red;">*</label>
+          <input type="password"  class="form-control mb-3"formControlName = "password"
+          [ngClass]="{'is-invalid':password?.errors?.['required'] && password?.touched}">
+          <div class="mb-3">
+            <div class="mb-1">
+                <label >Image</label>
+                <span class=" ms-1 " style="color: rgb(133, 133, 133);font-size: 12px; font-style: italic;">optional</span>        
+            </div>
+            <input type="file" (change)="handleFileInput($event)" >  
+          </div>
+          <mat-dialog-actions class="justify-content-center">
+            <button [disabled]="employeeForm.invalid" mat-button mat-dialog-close
+                [mat-dialog-close]="{isAddingNewUser:data.employee?.id==null ,employee:employeeForm.value}">Submit</button>
+        </mat-dialog-actions>
+        </div>
+    </form>
+</div>

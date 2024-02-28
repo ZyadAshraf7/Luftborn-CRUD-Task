@@ -1,0 +1,22 @@
+.circle-img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+.border-circle-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px; /* Adjust the width and height as needed */
+    height: 120px; /* Adjust the width and height as needed */
+    border-radius: 50%; /* Makes the container circular */
+    border: 2px solid aqua; /* Border color and thickness */
+    padding: 8px; /* Padding between the image and the border */
+    overflow: hidden; /* Hide image overflow */
+}
+.info-container{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
