@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Luftborn_.NET_Task.props" />
+</Project>

@@ -1,0 +1,140 @@
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\appsettings.json
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Luftborn_.NET_Task.exe
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Luftborn_.NET_Task.deps.json
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Luftborn_.NET_Task.runtimeconfig.json
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Luftborn_.NET_Task.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Luftborn_.NET_Task.pdb
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.csproj.AssemblyReference.cache
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.AssemblyInfoInputs.cache
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.AssemblyInfo.cs
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.csproj.CoreCompileInputs.cache
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets\msbuild.Luftborn_.NET_Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets\msbuild.build.Luftborn_.NET_Task.props
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Luftborn_.NET_Task.props
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Luftborn_.NET_Task.props
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\scopedcss\bundle\Luftborn_.NET_Task.styles.css
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.csproj.CopyComplete
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\refint\Luftborn_.NET_Task.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.pdb
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.genruntimeconfig.cache
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\ref\Luftborn_.NET_Task.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Ziad\source\repos\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Luftborn_.NET_Task.staticwebassets.runtime.json
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\appsettings.Development.json
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\appsettings.json
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Luftborn_.NET_Task.staticwebassets.runtime.json
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Luftborn_.NET_Task.exe
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Luftborn_.NET_Task.deps.json
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Luftborn_.NET_Task.runtimeconfig.json
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Luftborn_.NET_Task.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Luftborn_.NET_Task.pdb
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\AutoMapper.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Humanizer.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.csproj.AssemblyReference.cache
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.AssemblyInfoInputs.cache
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.AssemblyInfo.cs
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.csproj.CoreCompileInputs.cache
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.MvcApplicationPartsAssemblyInfo.cs
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.MvcApplicationPartsAssemblyInfo.cache
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets\msbuild.Luftborn_.NET_Task.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets\msbuild.build.Luftborn_.NET_Task.props
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Luftborn_.NET_Task.props
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Luftborn_.NET_Task.props
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets.build.json
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\staticwebassets.development.json
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\scopedcss\bundle\Luftborn_.NET_Task.styles.css
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.csproj.CopyComplete
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\refint\Luftborn_.NET_Task.dll
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.pdb
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\Luftborn_.NET_Task.genruntimeconfig.cache
+E:\Luftborn CRUD Task\Luftborn_.NET_Task\Luftborn_.NET_Task\obj\Debug\net6.0\ref\Luftborn_.NET_Task.dll
